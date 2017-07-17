@@ -139,7 +139,7 @@ Einige Schwierigkeiten bzw. Probleme können jedoch in der Durchführung des Beo
 
 #System Info
 
-Das Dokument wurde unter folgenden System Specifikationen generiert. Alle Benötigten Dokumente zur Reprduktion des Dokumentes (Samt R Code und Daten) lassen sich unter 
+Das Dokument wurde unter folgenden System Specifikationen generiert. Alle Benötigten Dokumente zur Reprduktion des Dokumentes (Samt R Code und Daten) lassen sich unter [GitHub](https://github.com/aaronpeikert/vapiano) herunterladen.
 
 ```{r}
 sessionInfo() %>% pander
