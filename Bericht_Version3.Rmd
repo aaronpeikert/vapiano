@@ -1,0 +1,142 @@
+---
+title: "Hausaufgabe Modul: Methoden der Arbeits-, Ingenieurs- und Organisationspsychologie - Arbeitsanalyse Vapiano"
+shorttitle: "Arbeitsanalyse Vapiano"
+author: "Aaron Peikert, Caroline Gahrmann, Chantal Unterfeld, Uwe Krüger, Hannah Sinzger"
+date: "12 July 2017"
+affiliation: "Humboldt Universität zu Berlin"
+output:
+  pdf_document:
+    keep_tex: true
+    template: "default.latex"
+bibliography: "bibliography.bib"
+csl: "apa.csl"
+---
+
+```{r,warning=FALSE,echo=FALSE,message=FALSE}
+knitr::opts_chunk$set(warning=FALSE,echo=FALSE,message=FALSE) 
+source("relia.R")
+```
+
+
+#Einleitung
+
+Im Rahmen des Moduls "Arbeits-, Ingenieurs- und Organisationspsychologie" bzw. im Rahmen der Vorlesung "Methoden der Arbeits-, Ingenieurs- und Organisationspsychologie" wurde eine Arbeitsanalyse von den oben genannten Gruppenmitgliedern erstellt. 
+
+Gegenstand der Untersuchung war hierbei die Restaurantkette "Vapiano". Diese wurde im Jahr 2002 vor dem Hintergrund stagnierender bzw. leicht sinkender Nachfrage in der Gastronomiebranche gegründet, die zusammen mit steigenden Lebensmittelpreisen zu sinkenden Einnahmen führte (-0.8%, real Stand 2002 zum Vorjahr nach @ulrich_branchenentwicklung_2001). Durch die Implementierung eines neuen Restaurantformats, das nach dem sogenannten Fast-Casual-Prinzip [@barron_chipotle_2012] ausgerichtet ist, gelang Vapiano ein rasantes Wachstum über den gesamten europäischen Markt. Dies wird insbesondere auf zunehmende Trends - wie Erlebnisgastronomie und Zeitersparniss der Gastronomiebranche - zurückgeführt [@zentes_innovative_2007]. 
+
+In dieser Arbeit soll die Frage nach der Gestaltung der Arbeitsprozesse im "Vapiano" im Vordergrund stehen. In diesem Sinne wurde zunächst ein Beobachtungsschema entwickelt. Das Beobachtungsschema beinhaltete dabei den Arbeitsprozess eines Vapiano-Mitarbeiters im Service. Im Anschluss wurde eine systematische Verhaltensbeobachtung durchgeführt.
+Hierbei sollten die psychologischen Implikationen der Arbeitsgestaltung im Vapiano besondes beleuchtet werden. 
+Die Verhaltensbeobachtung wurde halb-offen und nicht-teilnehmend durchgeführt. 
+
+#Arbeitsumfeld und Erhebungsbedingungen 
+
+Die Beobachtung hat am 13. Juli 2017 zwischen 16 und 19 Uhr in der Vapiano-Filiale an der Augsburger-Straße stattgefunden. 
+Die Vapiano-Filiale verteilt sich über drei Stockwerke. Im Erdgeschoss waren der Bestellbereich und einige Sitzmöglichken für Kunden. Im ersten Stockwerk befand sich ein weiterer Sitzbereich. Im Untergeschoss befanden sich Toiletten für Kunden und Lagerräume. Außerdem stand den Kunden zum Sitzen ein Außenbereich zur Verfügung.
+Der räumliche Aufbau sah vor, dass Kunden beim Betreten der Filiale über einen Eingangs- bzw. Empfangsbereich geleitet wurden. Hinter diesem am Ende des Raumes befand sich der Thekenbereich. Die Theke war in verschiedene Teilbereiche geodnet, welche sich nach den gewünschten Gerichten gliederten. So gab es einen Bereich für das Bestellen von Salat und Antipasti, einen Bereich für das Bestellen von Pasta, drei Bereiche für das Bestellen von Pasta und Risotto und einen Bereich für das Bestellen von Pizza. Direkt an dieser Theke waren auch Kochplatten, Zutaten und gegebenenfalls Öfen situiert. Außerdem gab es einen davon abgetrennten Bereich in der Mitte des Raumes, wo Nachtische und Getränke bestellt werden konnten. Hinter der großen Bestelltheke lag ein einsehbarer Raum, der als "Nudelmanufaktura"ausgezeichnet war, sowie ein nicht einsehbarer Bereich. Insgesamt nahm der Service Bereich etwa 3/5 der Gesamtfläche des ersten Stockwerkes ein. 
+Der Raum war relativ hell durch zwei große Fensterfronten. Im Thekenbereich waren zusätzlich auch künstliche, helle Lichtquellen beobachtbar. 
+Die Lautstärke in dem Raum war mit gemessenen 80db relativ hoch, wobei Unterhaltungen möglich waren. Geräuschquellen waren Arbeitsgräusche, Unterhaltungen der Kunden und über Lautsprecher wiedergegebene Popmusik. Die Geräuschkulisse wurde verstärkt durch die hohen Decken in der Filiale und den damit verbundenen Hall. 
+Die Temperatur wurde über eine Klimaanlage auf Zimmertemperatur reguliert. Es konnte kein dominater Geruch von Essen wahrgenommen werden, wodurch auf ein integriertes Belüftungssystem geschlossen werden kann. 
+Das Kundenaufkommen war zu dem beobachteten Zeitpunkt relativ hoch. So mussten durchschnittlich etwa 15-20 Kunden im Thekenbereich bedient werden. Der Webdienst Google Maps® [@svennerberg_beginning_2010] gibt an, dass die Besucherrate zum den Zeitpunkt der Beobachtung durchschnittlich ausfiel. 
+
+Die beobachteten Arbeitsbedingungen sollen an dieser Stelle kurz bewertet werden. Besonders auffällig war hier die hohe Lautstärke in der Filiale, welche von den Mitarbeitern über relativ lange Zeiträume ausgehalten werden muss. Dies wird als negativer Aspekt innerhalb der Hygiene Faktoren bewertet, welcher auch einen Einfluss auf die Arbeitsmotivation haben könnte. 
+
+#Arbeitsaufgaben 
+
+In der Vapiano Filiale hatten die Service-Kräfte unterschiedliche Spezialisierungen. Im Folgenden sollen die Arbeitsaufgaben und Arbeitsprozesse der Mitarbeiter mit unterschiedlichen Spezialisierungen genauer beschrieben werden. 
+Im Empfangsbereich arbeiteten während der Beobachtung ein bis zwei Arbeitskräfte. Ihre Aufgaben bestanden darin neue Kunden zu begrüßen. Sie haben ankommende Kunden außerdem standartisiert gefragt, ob sie sich bei Vapiano auskennen. Wenn die Kunden dies verneinten, haben sie ihnen genaueres über den Bestellprozess erklärt. Sie haben den Kunden anschließend eine Karte gegeben, auf welcher deren Bestellungen gesammelt wurden. Die Mitarbeiter in diesem Bereich hatten außerdem die Aufgabe Kunden, die die Filiale verlassen wollten zu betreuen. Durch ein Gerät wurden zunächst deren Bestellkarten abgelesen. Sie haben anschließend über Bargeld oder Kartenzahlungen kassiert. Die Mitarbeiter hier beantworteten auch häufig Fragen der Kunden oder Fragen von anderen Mitarbeitern. Wenn keine Kunden betreut werden mussten, beschäftigten sich die Mitarbeiter, indem sie Geschirr säuberten oder still standen. 
+An der Theke waren die Köche des Vapianos angestellt. Ingesamt existieren fünf verschiedene Bereiche der Theke, welche sich (s.oben) nach dem gewünschten Gericht ordnen. Jedem Bereich der Theke war eine Service-Kraft bzw. ein Koch zugeteilt. Deren Arbeitsinhalte lassen sich sehr gut nach der Handlungsregulationstheorie systematisieren.
+Illustriert werden soll das an der Beschreibung des Arbeitsablaufes eines Koches bzw. einer Köchin, die für Pasta zuständig ist. Globales Ziel des Koches ist das gewünschte Gericht herzustellen. Der Prozess, um dieses Ziel zu erreichen, wurde immer in verschiedene Teilziele gegliedert, welche hierarchisch-sequentiell durchlaufen wurden. Zunächst kam es zu einer Kunden-Interaktion. Der Kunde wurde nach dem genauen Gericht gefragt, anschließend nach der gewünschten Nudel-Sorte und schließlich nach eventuellen Sonderwünschen. Das nächste Teilziel war das Kochen der Nudeln. Hierzu suchte der Koch in dem Regal hinter ihm eine Plastiktüte mit einer bereits rationierten Portion der richtigen Nudelsorte heraus. Diese wurden von ihm in einen Behälter mit kochendem Wasser geschüttet. Während die Nudeln kochten wurde die Arbeit am nächsten Teilziel begonnen, nämlich die Sauce herzustellen. Hierzu wurde in die Pfanne, die auf der - an der Theke angebrachten - Herdstelle stand, Öl geschüttet. In diesem Öl wurde dann Gemüse und Fleisch gebraten. Gemüse musste der Koch dabei selbst rationieren, das Fleisch war bereits in Portionen abgepackt. Beides befand sich nahe der Theke. Anschließend wurde die Sauce spezifisch für das Gericht vervollständigt z.B indem eine Sauce an passierten Tomaten hinzugefügt wurde. Wenn dieser Teilschritt vervollständigt war, entstand eine Pause, weil die Nudeln noch nicht fertig gekocht waren. Der Koch nutzte diese Pause, um die Kunden nach einem Getränk zu fragen und dieses - auf Wunsch - aus dem hinter der Theke stehenden Külschrank zu holen. Anschließend wurde der Kunde aufgefordert seine Bestellkarte an ein Lesegerät zu halten, sodass die Bestellung registriert wurde. In der Zwischenzeit waren die Nudeln meist fertig. Diese wurden über einen Automatismus in einem Sieb aus dem Wasser befödert. Hier begann der nächste Teilschritt für den Koch, nämlich das Gericht zu vervollständigen. Zunächst wurden die Nudeln in die Pfanne mit der Sauce gegeben und vermischt. Anschließend wurde ein Teller geholt, welche neben der Kochfläche standen, und das Gericht wurde in den Teller gegeben. Es wurde dann Parmesan über das Gericht gegeben und Basilikum hinzugefügt. Dem Kunden wurde sein Teller gegeben und er wurde verabschiedet. Nun folgt das letzte Teilziel, nämlich den Arbeitsplatz für den nächsten Kunden vorzubereiten. Hierzu stellte der Koch die benutze Pfane in den Bereich hinter ihm und nahm sich eine neue Pfanne. 
+Auch die Köche, die andere Gerichte zubereiteten, hatten einen ähnlich standartisierten Arbeitsprozess. Ihre genauen Arbeitsschritte sollen an dieser Stelle nicht wiedergegeben werden, da wir uns in der Verhaltensbeobachtung nicht auf diese Mitarbeiter konzentriert haben. 
+In der Mitte des Raumes befand sich ein abgetrennter Barbereich. In diesem waren während der Beobachtung ein oder zwei Arbeitskräfte beschäftigt. Ihre Aufgaben beinhalteten das Einschänken von Getränken und das Servieren von Nachtischen. In der Vapiano Filiale konnte nur Kuchen bestellt werden, so dass der Mitarbeiter das Stück Kuchen nur auf einen Teller transportieren musste. Wenn keine Kunden anwesend waren, hat der Mitarbeiter abgetrocknet oder sich mit anderen Mitarbeitern unterhalten. 
+Weitere Mitarbeiter in der Filiale waren örtlich nicht gebunden und hatten die Aufgabe Tische anzuräumen und hinter der Theke zu putzen. Sie konnten leider weniger gut beobachtet werden. 
+Auf Grundlage dieser Beschreibung von typischen Arbeitsabläufen soll auch versucht werden die Arbeitsgestaltung im Vapiano zu bewerten. Alle Arbeitskräfte führten ihre Aufgaben mit einem sehr hohen Grad an Standartisierung aus. Dies gilt insbesondere für die kochenden Mitarbeiter an der Theke. Dadurch entsteht die Gefahr einer besonders monotonen Arbeit. Eine Möglichkeit dies zu verhinden wäre es die Mitarbeiter eine job-rotation machen zu lassen, innerhalb derer sie über die Zeit unterschiedlichen Spezialisierungen zugeordnet werden. 
+Ein Aspekt, der auf Grundlage der Handlungsregulationstheorie positiv hervorzuheben ist, ist, dass ein "job enlargement" stattfindet. Auf horizontaler Ebene sind besonders viele Schritte in den Arbeitsprozess integriert. Dies wirkt gegen eine starke Monotonie der Arbeit. Doch obwohl der Koch das Gericht alleine vollständig erstellt und dabei mehrere Teilziele erfüllen muss, solle nicht vergessen werden, dass er dabei keinen Entscheidungsspielraum hat. Dennoch ist die Tätigkeit der Köche aus handlungsregulationstheoretischer Perspektive in Teilen positiv zu bewerten. 
+
+#Beobachtungsschemata 
+
+Das Ziel war es eine systematische Verhaltensbeobachtung im Sinne des momentary timesampling durchzuführen. Hierzu musste ein Beobachtungsschema erarbeitet werden. Alle 60 Sekunden sollte die Situation des Mitarbeiters in dieser letzten Sekunde kodiert werden. Die Kodierung erfolgte direkt über Excel oder über Papier und Bleistift.
+Bei der Erstellung des Beobachtungsschemas wurde auf die vorher gewonnen Informationen über die Arbeitsprozesse zurückgegriffen (s.oben). Nachdem die Arbeitsprozesse zunächst relativ komplex analysiert wurden, wurden die einzelnen Schritte für die Erstellung des Beobachtungsschemas aber generalisiert. Der Grund besteht in der schlechten Einsehbarkeit der Mitarbeiter von den Tischen aus. Durch die Generalisierung sollte eine höhere Beobachterübereinstimmung erreicht werden. 
+Insgesamt wurden drei verschiedene Beobachtungsschemata erstellt, welche sich auf die unterschiedlichen Spezialisierungen der Mitarbeiter beziehen. Gegenstand der Beobachtung war ein Mitarbeiter im Empfangsbereich, ein Mitarbeiter im Bereich der Bar und ein Mitarbeiter, der an der Theke Pasta gekocht hat. 
+Für jeden Mitarbeiter wurden mögliche Tätigkeiten grob klassifiziert. Folgende Tätigkeiten wurden für den Mitarbeiter im Empfang kategorisiert: Begrüßung, Kundengespräch, Gespräch mit Angestellten, Abfertigung einer Bezahlung, Besteck putzen, Pause, Anderes. Für den Mitarbeiter an der Bar wurden dagegen folgende Tätigkeiten in das Beobachtungsschema aufgenommen: Abwaschen, Kundengespräch, Gespräch mit Mitarbeitern, Kuchen servieren, Getränke servieren, Pause, Anderes. Für den Mitarbeiter an der Pastatheke wurden diese Kategorien formuliert: Gespräch, Kochen, Putzen, Utensilien holen, Pause, Anderes. 
+Die Kodierung sah eine Ja/Nein Beantwortung der einzelnen Kategorien vor. Indem immer nur ein Moment beobachtet wurde, wird eigentlich immer nur eine Antwortalternative pro Durchgang angekreuzt. 
+Neben dieser spezifischen Kategorisierung der Tätigkeiten von Mitarbeitern, sollte auch die Situation erfasst und bewertet werden, in welcher der Mitarbeiter sich befand. Es wird davon ausgegangen, dass Personen einer Situation bestimmte psychologische Charakteristika zuschreiben  [@edwards_structure_2005]. Ziel ist es, von den beobachtbaren Reaktionen der Mitarbeiter auf diese psychologischen Chraktersitika zu inferieren. Nach @sherman_situational_2010-1 kann eine Situation auf den Dimensionen Arbeit, Intellekt, Missgeschick, Verpartnerungsmöglichkeit, Positivtät, Negativität, Täuschung, und Sozialität bewerted werden [@sherman_situational_2010-1; @sherman_properties_2012; @sherman_situational_2013]. Aufbauend auf dieser Theorie hat @rauthmann_situational_2014 ein diagnostisches Instrumentarium entwicklet diese Bewertungen zu erheben. Im Rahmen des Time Sampling wurde die Ultra-Kurz-Skala DIAMONDS S8-I [@rauthmann_ultra-brief_2016] in die Beobachtungsschemata integriert. Diese Skala, die aus acht Items besteht, wurde für die hocheffiziente Nutzung für Eventsampling optimiert. Die Validät für die Ultrashortskale zeigt sich an der Mittlerenfaktorladung von .58 in der Vorgelegten CFA der Langskala, die wiederum verschiedene hervorragnde Validätsbelege aufweist [@rauthmann_situational_2014]. Sie war damit Teil von allen drei Beobachtungsschemata. 
+
+##Items des DIAMONDS S8-I
+
+1. Work has to be done. 
+1. Deep thinking is required.
+1. Somebody is being threatened, accused, or criticized.
+1. Potential romantic partners are present.
+1. The situation is pleasant.
+1. The situation contains negative feelings (e.g.,stress, anxiety, guilt,etc.).
+1. Somebody is being deceived.
+1. Sociality Social interactions are possible or required.
+
+Diese Items wurden in den Beobachtungsschemata einer sechstufigen Skala zugeordnet (0-5).
+
+##Reliabilität des Beobachtungsschemas
+
+Die Reliabiltät für die Klassifikation der Tätigkeiten wurde über Kappa quantifiziert. Kappa ist trotz der Verletzung der Unabhängikeitsannahme der Beobachtungen durch das Timesampling ein unverzerrter Schätzer [@sim_kappa_2005].  Es wurden zwei Rater gewählt, obwohl um eine Reliabilität von größer .8 zu erreichen nach @voskuijl_determinants_2002 mind. drei studentischen Laienrater benötigt werden. Auf ein Training der Rater wurde ebenfalls verzichtet, da diese nach der gleichen Quelle [@voskuijl_determinants_2002] keinen bis nur einen geringen Effekt hinsichtlich der Reliabilität von Laienratern zeigt. Das Beobachtungsintervall wurde auf 1 min festgesetzt, da "momentary time sampling" zu einer unverzerrten Schätzung der Prävalenz und Inzidenz von Tätigkeiten führt  [@johnson_reliability_2014, p. 15f.]. Die Reliabilität der Beobachtungsinstrumente zur Klassifikation betrug für die Tätigkeiten an der Rezeption: `r round(rez_teat_kappa,2)`, an der Bar: `r round(bar_teat_kappa,2)` & für die Pastaausgabe: `r round(pasta_teat_kappa,2)`. Damit erreichten wir das anvisierte Ziel von .8 nicht in allen Fällen, obwohl dieser Wert immer durch das Konfidenzintervall eingeschlossen wurde.
+
+Die DIAMONDS S8-I Skala zeigte in den unterschiedlichen Bedingungen z.T. unbefreidigende Reliabilitäten von nur .5. Das dies jedoch nicht dem Erhebungsinstrument anzulasten ist, zeigen die nachfolgenden Tabellen 1-3. Denn das verwendete Reliabilitätsmaß, Kendall's Konkordanzkoeeffizent [@kendall_rank_1948], entspricht essentiell der gemittelten Rangkorrelation nach Kendall [@kendall_rank_1948], die maßgeblich durch die Covarianz begrenzt wird. Die Covarianz wiederum wird durch die Varianz der Ratings begrenzt. Alle Items mit geringer Reliabilität werden eben durch eine sehr geringe Varianz begleitet. Dies erklärt die geringen Reliabilitäten.
+
+#Ergebnisse der Verhaltensbeobachtung
+Im Rahmen der Verhaltensbeobachtung haben wir das Verhalten jedes Mitarbeiters zu 30-40 unterschiedlichen Zeitpunkten kodiert. In den nachfolgendne Grafiken können die Häufigkeiten der jeweiligen Tätigkeiten abglesen werden.
+
+```{r}
+knitr::kable(relia_rez_diamonds, caption = "Rezeption")
+
+ggplot(rez_all,aes(class,fill=class)) + stat_count() + ggtitle("Rezeption")
+```
+
+Der Mitarbeiter am Empfang bzw. an der Rezeption wurde am häufigsten beim Abkassieren und Verabschieden der Kunden beobachtet. Relativ viel Zeit verbrachte er auch mit dem Säubern von Geschirr sowie in Mitarbeiterinteraktionen. Der subjektive Eindruck der Beobachter war, dass der Workload beim Rezeptions-Mitarbeiter phasenweise von hoch zu niedrig wechselte und inkonsistent war.
+
+```{r}
+knitr::kable(relia_bar_diamonds, caption = "Bar")
+
+ggplot(bar_all,aes(class,fill=class)) + stat_count() + ggtitle("Bar")
+```
+
+Der Mitarbeiter an der Bar hat den Hauptteil seiner Arbeitszeit mit dem Abwaschen von Geschirr verbracht, was die Frage aufwirft, ob er stark unterbeschäftigt ist, oder diese Tätigkeit von Vapiano so erwünscht und gefordert ist. Allerdings kann es sich hier auch um eine Verzerrung aufgrund des Beobachtungszeitpunktes handeln.
+
+```{r}
+knitr::kable(relia_pasta_diamonds, caption = "Pasta")
+
+ggplot(pasta_all,aes(class,fill=class)) + stat_count() + ggtitle("Pasta")
+```
+
+Der Pasta-Koch hat die meiste Zeit mit dem Kochen des Gerichts verbracht, wie auch zu erwarten war. Er wirkte während der gesamten Beobachtung ausgelastet. Gegen Ende der Beobachtung schien eine reguläre Pause zu beginnen, weshalb einige beobachtete Zeit als Pause notiert wurde. Ab und zu kam aber dennoch der Eidruck auf, dass er überlastet sein könnte, da zwischen den einzelnen Kunden praktisch keine Pausen stattfanden. Im Vergleich zu den anderen beobachteten Mitarbeitern wurde der Workload am höchsten eingeschätzt.
+
+Die Qualitativen Beobachtungen lassen sich anhand der Ratings des DIMOND S8-1 bestätigen. So ist der Workload wie zu erwarten stark assoziert mit der Anwesenheit eines Kunden (P-Wert: `r round(t.test(Duty~customer,rez_all)$p.value,2)`; Cohen's D: `r round(cohen.d.formula(Duty~customer,rez_all)$estimate,2)`), aber auch die Sozialität (siehe nachfolgende Tabellen).
+
+```{r}
+t.test(Duty~customer,rez_all) %>% pander
+t.test(Sociality~customer,rez_all) %>% pander
+```
+
+Übereinstimmend mit der Qualitativen Beobachtung unterschieded der Workload signifkant zwischen den beobachteten Mitarbeitern.
+
+```{r}
+aov(Duty~object,all) %>% pander(caption = "Anova Workload der Beobachteten Mitarbeiter")
+```
+
+Das die statistischen Annahmen dieser Tests höchstwahrscheinlich nicht erfüllt, sei uns im Rahen dieser Arbeit verziehen.
+
+#Fazit  
+
+Im Rahmen des Projektes konnten einige Einblicke in die Arbeitsprozesse der Vapino-Mitarbeiter im Service Bereich gewonnen werden. 
+
+Aus psychologischer Perspektive lässt sich abschließend positiv bemerken, dass die Mitarbeiter vollständige Arbeitsabläufe im Sinne der Handlungsregulationstheorie bewältigten, wodurch Monotonie und einseitige Belastung der Arbeit vermieden wurden. So waren die Köche im Vapiano für die vollständige Herstellung des Gerichtes zuständig. Gleichzeitig bekamen die Mitarbeiter häufig positives Feedback von Kunden, die den Kochprozess beobachteten. Durch diese erfahrene Wertschätzung wurden das Selbstbewusstsein und die Selbstwirksamkeit der Köche erhöht und die Arbeitszufriedenheit wurde positiv beeinflusst [@kluger_effects_1996]. 
+
+Aus psychologischer Perspektive konnten aber auch Aspekte beobachtet werden, die negativ bewertet werden. Trotz des geschlossenen Arbeitszyklus besonders von den Köchen im Vapiano konnte festgestellt werden, dass es langfristig zu einem Monontoniegefühl kommen konnte. Dies ist auf die stark standartisierten Aufgabenprozesse zurückzuführen. Auf der einen Seite garantiert dies die gleichbleibende Qualität der Gerichte, auf der anderen Seite haben die Mitarbeiter wenig Entscheidungsspielraum. Die Aufgaben verlangten insgesamt relativ wenig Kreativität. 
+
+Auch die Analyse der Arbeitsbedingungen hat einige Kritikpunkte ergeben. Problematisch war die Tatsache, dass die Mitarbeiter keine Sitzmöglichkeiten hatten und ihre Arbeit so körperlich stark beanspruchend war. Die Mitarbeiter haben sich sehr wenig bewegt, wodurch die körperliche Belastung weiter stieg. Weiterhin war die Lautstärke in der Filiale hoch, sodass auch diese als belastender Faktor galt [@leather_noise_2003]. 
+
+#Diskussion 
+
+Innerhalb des Beobachtungsprojektes kann positiv festgestellt werden, dass Beobachterübereinstimmungen bestimmt werden konnten durch die Doppelbeobachtung. Es wurden außerdem verschiedene Mitarbeiter in der Filiale mit unterschiedlichen Spezialisierungen beobachtet, sodass Aussagen über mehrere Arbeitsprozesse getroffen werden konnten. Die Beobachtung fand über einen Zeitraum von 3-4h statt, sodass ein guter Einblick in den alltäglichen Arbeitsablauf gewährleistet war. 
+
+Einige Schwierigkeiten bzw. Probleme können jedoch in der Durchführung des Beobachtungsprojektes festgestellt werden. Um einen noch besseren Einblick in die Arbeitsprozesse der Mitarbeiter zu bekommen, hätten verschiedene Vapiano Filialen besucht werden können. Außerdem hätten Beobachtungen zu mehr verschiedenen Messzeitpunkten erhoben werden können. Es wäre auch sinnvoll gewesen alle Spezialisierungen der Mitarbeiter zu erfassen und nicht nur einen Ausschnit. Es wäre sicher auch wünschenswert gewesen mehr als zwei Beobachter für einen Mitarbeiter zu haben. Kritisch ist auch, dass die Beobachtungsbedingungen nicht optimal waren und die Mitarbeiter zum teil sehr schlecht einsehbar gewesen sind. Dadurch mussten die Tätigkeiten im Beobachtungsschema gröber kategorisiert werden und es ergaben sich wenig detaillierte Ergebnisse. Da besonders die Fragestellung der psychologischen Konsequenzen der Arbeitsgestaltung interessant war, wären Infomationen durch die Befragungen von Mitarbeitern auch wichtig gewesen. So hätten diese die Skala DIAMONS S8-I in regelmäßigen Abständen im Selbstrating ausfüllen können. Dies war jedoch im Rahmen dieses Projektes nicht realisierbar. Zuletzt sollte bemerkt werden, dass unsere Beobachtung nur ein Teilschritt einer echten Arbeitsanalyse ist und auch nur als solcher zu sehen ist. Wichtige andere Teilaspekte wie Mitarbeitergespräche wurden in diesem Rahmen nicht berücksichtigt.
+
+
+#Literatur

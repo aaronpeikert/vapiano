@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
+.Ruserdata
+*.pdf
+*.html
+*cache/
+test.R
+output/
+*.tex
